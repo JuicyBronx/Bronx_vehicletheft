@@ -1,0 +1,15 @@
+['lockpick'] = {
+    label = 'Grimaldello',
+    weight = 160,
+    stack = false,
+    close = true,
+    description = 'Grimaldello per forzare serrature',
+},
+
+['hacking'] = {
+    label = 'Hacking Device',
+    weight = 800,
+    stack = false,
+    close = true,
+    description = 'Dispositivo per lo sblocco rapido dei veicoli.',
+},
